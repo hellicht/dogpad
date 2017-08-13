@@ -1,0 +1,82 @@
+* {
+  margin:0;
+  padding:0;
+  /*border: 1px solid rgba(0, 0, 0, 0.3);*/
+}
+.wrapper{
+	width:800px;
+	height:800px;
+		background-image: url("http://orig09.deviantart.net/de56/f/2015/230/f/9/liquid_physics_corgis_by_tasteslikeanya-d965uvp.jpg");
+	background-position:center;
+	padding:10px;
+	margin:0 auto;	
+	border:1px solid black;
+	border-radius:px;
+}
+h1{
+	color:pink;
+	text-align: center;
+	font-family: 'Fredericka the Great', cursive;
+	font-size:5em;
+}
+
+a{	
+	margin:0 7px;
+	padding:5px 10px;
+	border:1px solid pink;
+	border-radius:3px;
+	background-color:pink;
+	text-decoration:none;
+	color:#666;	
+	font-family: 'Cabin Sketch', cursive;
+	font-weight:bold;
+}
+
+.gridnum{
+	width: 40px;
+    height: 20px;
+	margin:3px 0px 3px 20px;
+	display: center;
+    text-align: left;
+}
+
+a:active {
+	top: 20px;
+	text-shadow:1px 0px 0px black;
+}
+ .buttons{
+	display:flex;
+}
+
+
+.ui{
+	margin:0 auto;
+	
+}
+
+.bodyy{
+
+}
+
+.grid{
+	margin:20px auto;
+	width:600px;
+	height:600px;
+	background-color:rgba(255,255,255, 0.8);
+	border:3px solid red;
+}
+
+.smimg{
+	width:50px;
+	position:center;
+	filter: hue-rotate(-10deg);
+}
+
+.corgir{
+	transform: scaleX(-1);
+}
+
+.info{
+	font-family: 'Butterfly Kids', cursive;
+	font-size: 1.5em;
+}
